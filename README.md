@@ -26,3 +26,4 @@ Crear una carpeta en la cual se debera clonar tanto el backend como el frontend
    ```bash
    Server running on http://localhost:5000
    ```
+Con esto deberia funcionar correctamente para el funcionamiento de nuestro frontend
