@@ -12,7 +12,7 @@ Crear una carpeta en la cual se debera clonar tanto el backend como el frontend
    ```
 2. Navegar a la carpeta del proyecto:
    ```bash
-   cd Crypto-Frontend
+   cd Crypto-Backend
    ```
 3. Instalar dependencias
    ```bash
